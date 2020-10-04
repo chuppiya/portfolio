@@ -1,0 +1,16 @@
+* {
+  box-sizing: box;
+}
+
+.my-header {
+  color: turquoise;
+}
+
+.header {
+  display: block;
+  margin: 40px 20px;
+  border: 2px solid gray;
+  padding: 20px;
+  background-color: darkslategray;
+  border-radius: 20px;
+}
